@@ -1,7 +1,7 @@
 # <div align="center">Olá, eu sou a Millene Galetti 🙋♂️</div>
 #### <div align="center">  💻 Full-Stack  Developer</div>
 
-✨ Atualmente trabalho com: HTML, CSS, JavaScript, React, Redux, Context API, Hooks, Jest, RTL,  Docker, SQL, Node.js, Mocha, Chai e Sinon, Rest e Restful, ORM e Autenticação, Deploy, TypeScript, POO e SOLID,. Metodologias Ágeis (Trello)
+✨ Atualmente trabalho com: HTML, CSS, JavaScript, React, Redux, Context API, Hooks, Angular, Jest, RTL,  Docker, SQL, Node.js, Mocha, Chai e Sinon, Rest e Restful, ORM e Autenticação, Deploy, TypeScript, POO e SOLID, Metodologias Ágeis (Trello)
 
 <p align="left">
     <img
@@ -60,6 +60,12 @@
     />
    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+    width="30"
+    height="30"
+    />
+     <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
       alt="typescript"
     width="30"
     height="30"
