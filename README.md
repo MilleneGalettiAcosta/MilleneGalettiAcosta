@@ -74,7 +74,7 @@
 
 <hr>
 
-🌱 Atualmente aprendendo as tecnologias: MongoDB, Python, Arquitetura de redes, Algoritmos, Hashmap e Dict, Pilhas e Filas..
+🌱 Atualmente aprendendo as tecnologias: MongoDB, Java, Spring e Spring Boot, Python, Arquitetura de redes, Algoritmos, Hashmap e Dict, Pilhas e Filas..
 <p align="left">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -91,6 +91,12 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       alt="java"
+    width="30"
+    height="30"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
+      alt="spring"
     width="30"
     height="30"
     />
